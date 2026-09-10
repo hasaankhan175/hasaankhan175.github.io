@@ -9,16 +9,16 @@ const featuredProjects = [
     tags: ["NLP", "Machine Learning", "Streamlit"],
   },
   {
-    title: "Taxi Fare Prediction",
-    desc: "A regression-based machine learning project that predicts taxi fares using features like distance, time, and passenger count. Includes data cleaning, exploratory data analysis, and model training to estimate fare prices.",
-    link: "https://github.com/hasaankhan175/Taxi_Fare_Pred",
-    tags: ["Regression", "EDA", "Scikit-learn"],
+    title: "NOVA AI CHATBOT",
+    desc: "Built an AI-powered chatbot using FastAPI and Hugging Face.Integrated LLMs for text, code, and image-based interactions.Deployed a responsive AI application with real-time chat capabilities.",
+    link: "https://nova-ai-by-hasaan.vercel.app/",
+    tags: ["FastAPI", "Hugging Face", "LLMs", "AI Chatbot", "NLP"],
   },
   {
-    title: "Obesity Prediction",
-    desc: "A machine learning model that predicts obesity based on health and lifestyle factors like BMI, age, and activity level. Uses multiple classification algorithms including Random Forest and SVM for accurate prediction.",
-    link: "https://github.com/hasaankhan175/Obesity_Prediction",
-    tags: ["Classification", "Healthcare", "Random Forest"],
+    title: "AI Resume Analyzer (RAG-Based ATS System)",
+    desc: "Built a RAG-based AI Resume Analyzer using FAISS, Sentence Transformers, and Llama 3.1. Developed an ATS scoring and resume analysis system with skill matching, gap detection, and AI-generated recommendations.",
+    link: "https://airesume-hasaan.streamlit.app/",
+    tags: ["RAG", "LLMs", "NLP"],
   },
 ];
 
